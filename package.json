@@ -91,7 +91,7 @@
     "tailwindcss-animate": "^1.0.7",
     "tiptap-markdown": "^0.9.0",
     "use-debounce": "10.0.6",
-    "zod": "3.24.2",
+    "zod": "^3.25.0",
     "zitejs": "0.9.148"
   },
   "devDependencies": {
